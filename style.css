@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(128, 128, 128, 0.482);
+    }
+    
+    h1 {
+    color: whitesmoke;
+    text-align: center;
+    }
+    h2 {
+        color: white;
+        text-align: center;
+        }
+    
+    p {
+    font-family: verdana;
+    font-size: 15px;
+    }
+    ul{
+        font-family: Verdana;
+        font-size: 15px;
+    }
+    ol{
+        font-family: Verdana;
+        font-size: 15px;
+    }
+    div.div1 {
+        margin-left: 590px;
+      }
+
